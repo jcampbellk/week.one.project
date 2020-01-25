@@ -11,8 +11,16 @@
     border-color: black;
 }
 
+.bg-blue {
+    background-color: blue;
+}
+
 .text-wh {
     color: white;
+}
+
+.txt-center {
+    text-align: center; 
 }
 
 .square {
@@ -30,17 +38,29 @@
     margin-top: 10px;
 }
 
+
+.mt-5 {
+    margin-top: 5px;
+}
+
+
 .rectangle {
     min-width: 200px;
     min-height: 100px;
 }
 
-.content{
+.content {
     width: 100px;
     height: 100px;
-    background-color: blue;
+    background-color: green;
     margin: 5px;
     line-height: 100px;
     color: white;
+}
 
-.
+.footer {
+    background-color: blue;
+    margin: 5px;
+    line-height: 50px;
+    color: white;
+}
