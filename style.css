@@ -64,3 +64,10 @@
     line-height: 50px;
     color: white;
 }
+
+.nav-box {
+    background-color: yellow;
+    margin: 2px;
+    line-height: 25px;
+    color: black;
+}
