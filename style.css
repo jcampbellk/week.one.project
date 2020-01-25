@@ -1,0 +1,31 @@
+.helvetica {
+    font-family: 'Helvetica', san-serif;
+}
+
+.bg-deeptaupe {
+    background-color: #7f636e;
+}
+
+.bg-grey {
+    background-color: grey;
+    border-color: black;
+}
+
+.text-wh {
+    color: white;
+}
+
+.square {
+    min-width: 200px;
+    min-height: 200px;
+    box-shadow: 2px;
+}
+
+.border-blu {
+    border-color: blue;
+    border-width: 2px;
+}
+
+.mt-10 {
+    margin-top: 10px;
+}
