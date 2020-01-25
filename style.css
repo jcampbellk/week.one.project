@@ -29,3 +29,18 @@
 .mt-10 {
     margin-top: 10px;
 }
+
+.rectangle {
+    min-width: 200px;
+    min-height: 100px;
+}
+
+.content{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    margin: 5px;
+    line-height: 100px;
+    color: white;
+
+.
