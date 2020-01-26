@@ -24,7 +24,6 @@
 }
 
 .square {
-    min-width: 200px;
     min-height: 200px;
     box-shadow: 2px;
 }
@@ -50,7 +49,6 @@
 }
 
 .content {
-    width: 100px;
     height: 100px;
     background-color: green;
     margin: 5px;
@@ -75,7 +73,5 @@
 .item-box {
     min-width: 300px;
     min-height: 150px;
-    margin: 2px;
     line-height: 20px;
-    background-color: green;
 }
