@@ -71,3 +71,11 @@
     line-height: 25px;
     color: black;
 }
+
+.item-box {
+    min-width: 300px;
+    min-height: 150px;
+    margin: 2px;
+    line-height: 20px;
+    background-color: green;
+}
